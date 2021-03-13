@@ -1,1 +1,18 @@
-# index.html
+
+<!doctype html>
+<html>
+<head>
+<title>댕의세상</title>
+<meta charset="utf-8">
+</head>
+<body>
+
+<h1>이곳은 <strong>댕의 세상</strong></h1>
+<ol>
+  <li><a href="소개.html">소개</a></li>
+  <li><a href="후원.html">후원하실 곳</a></li></ol>
+<p>-<strong><u><a href="https://ko.dict.naver.com/#/entry/koko/7a1537e65e254d33bfb100c4a1de4733
+  "target="_blank"title="사전정의">나날이</a></u></strong> 발전하는 곳-</p>
+<p style="margin-top:40px;">20210313 시작!</p>
+</body>
+</html>
