@@ -1,7 +1,4 @@
 
-<!doctype html>
-<html>
-<head>
 <title>댕의세상</title>
 <meta charset="utf-8">
 </head>
